@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>ENTER YOUR NAME:Malligesh M P</h3>
+<h3>ENTER YOUR NAME:Malligesh M </h3>
 <h3>ENTER YOUR REGISTER NO:212223230119</h3>
 <h3>EX. NO:03</h3>
 <h3>DATE:15/04/25</h3>
